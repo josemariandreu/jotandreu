@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#foto0{
+	background-image: url("../img/Archivo_004.jpeg");
+}
+#foto1{
+	background-image: url("../img/guada_definitivo_Mesa de trabajo 1.png") ;
+
+}
+#foto2{
+	background-image: url("../img/Pescado.jpg");
+
+}
+.flecha_menu{
+	background-color:red;
+	z-index:2;
+}
